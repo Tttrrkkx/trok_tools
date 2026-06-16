@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0.6
 // @description  Loads Visca Tools via jsDelivr CDN
-// @author       7xr
+// @author       Trk
 // @match        *://discord.com/*
 // @run-at       document-idle
 // @grant        none
