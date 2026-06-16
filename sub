@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         Trok Tools Loader
+// @namespace    http://tampermonkey.net/
+// @version      2.0.6
+// @description  Loads Trok Tools via @require
+// @author       Trk
+// @match        *://discord.com/*
+// @run-at       document-idle
+// @grant        none
+// @require      https://cdn.jsdelivr.net/gh/Tttrrkkx/trok_tools@main/script.js?v=1
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    console.log('Trok Tools loaded via @require!');
+})();
