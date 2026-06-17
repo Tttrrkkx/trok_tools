@@ -4,7 +4,7 @@
 // @version      2.0.0
 // @description  Get Discord token + enroll or claim quests easily — UI panel by Trok Dev
 // @author       Trk
-// @match         https://discord.com/*
+// @match        https://discord.com/*
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
